@@ -37,8 +37,26 @@ company cafeteria, or maybe seek out fellow enthusiasts at a local user’s
 group meeting
 
 ### Communicate
-* I believe that it is better to be looked over than it is to be overlooked. ➡️ Mae West, Belle of the Nineties, 1934
+* I believe that it is better to be looked over than it is to be overlooked. ➡️ Mae West, Belle of the Nineties, 1934 
 
+## It’s Both What You Say and the Way You Say It
+* Know what you want to say.
+* Know your audience.
+* Choose your moment.
+* Choose a style.
+* Make it look good.
+* Involve your audience.
+* Be a listener.
+* Get back to people.
 
+### Challenges
+* There are several good books that contain sections on communications
+within development teams [Bro95, McC95, DL99]. Make it a point to try
+to read all three over the next 18 months. In addition, the book Dinosaur
+Brains [Ber96] discusses the emotional baggage we all bring to the work environment.
 
-
+* The next time you have to give a presentation, or write a memo advocating
+some position, try working through the WISDOM acrostic on page 20 before
+you start. See if it helps you understand how to position what you say. If
+appropriate, talk to your audience afterward and see how accurate your
+assessment of their needs was.
