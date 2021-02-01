@@ -6,8 +6,10 @@
   * Scala in Action
  ## Ongoing :muscle:
   * [The Pragratic programmer](https://github.com/isMikehere/reading-list/tree/master/the-pragmatic-programmer)
+  * Gradle in Action
   * Effective Java
   * Fullstack_GraphQL Applications_with GRANDstack
+
 
 ## Planned :eyes:
   * Machine Learning in Action 
