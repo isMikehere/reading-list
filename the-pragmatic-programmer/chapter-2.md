@@ -3,4 +3,5 @@
 ## Tip 12: Make It Easy to Reuse  
 ---
 ## Orthogonality
-## Eliminate Effects Between Unrelated Things
+## Tip 13: Eliminate Effects Between Unrelated Things
+## Tip 14: There Are No Final Decisions
